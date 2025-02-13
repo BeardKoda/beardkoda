@@ -7,8 +7,8 @@
 ## I'm a Systems Architect and Music-Producer, Werid 🤣!!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other software developers
-- 🥅 2025 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate with other architects
+- 🥅 2025 Goals: Build More Products
 - ⚡ Fun fact: I love to eat and playing guitar / keyboard
 
 ### Connect with me:
