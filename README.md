@@ -4,9 +4,9 @@
 [![Website](https://img.shields.io/website?label=BeardKoda.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://BeardKoda.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/BeardKoda?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FBeardKoda&screen_name=BeardKoda)
 
-## I'm a Systems Architect and Music-Producer, Werid 🤣!!!
+## I'm a Systems Architect and Music-Producer, Werid🙂!!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other architects
 - 🥅 2025 Goals: Build More Products
 - ⚡ Fun fact: I love to eat and playing guitar / keyboard
