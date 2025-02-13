@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/website?label=BeardKoda.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://BeardKoda.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/BeardKoda?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FBeardKoda&screen_name=BeardKoda)
 
-## I'm a Developer, and Music-Producer🤣!!!
+## I'm a System Architect, and Music-Producer🤣!!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other software developers
