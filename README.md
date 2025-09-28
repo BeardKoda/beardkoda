@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other architects
 - 🥅 2025 Goals: Build More Products
-- ⚡ Fun fact: I love making music and playing guitar / keyboard
+- ⚡ Fun fact: I love making music and playing the piano
 
 ### Connect with me:
 
